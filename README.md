@@ -7,7 +7,6 @@ AI Image Classifier is a machine learning model that can effectively classify Re
 
 - [Table of Contents](#table-of-contents)
 - [Brief Overview](#brief-overview)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Data Sources](#data-sources)
 - [Model](#model)
@@ -22,13 +21,6 @@ This project involved building a machine learning model that can classify real a
 
 These images were preprocessed and features were extracted. Then, a Convolutional Nueral Network based Classifier model was constructed and trained on the dataset containing around 1,00,000 images.
 
-# Demo
-[(Back to top)](#table-of-contents)
-
-Here is a short demo of the deployed web application.
-
-https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/0ebe3ffb-4afe-4a7b-96d3-80ce5e7ce99f
-
 # Installation
 [(Back to top)](#table-of-contents)
 
@@ -38,7 +30,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
-  git clone https://github.com/SanKolisetty/AI-Image-Classifier.git
+  git clone https://github.com/r.git
 ```
 Now, install the requirements using the following command.
 

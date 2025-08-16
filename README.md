@@ -1,4 +1,3 @@
-![Banner](./banneraiimg.jpg)
 
 # AI Image Classifier
 
@@ -6,15 +5,12 @@ AI Image Classifier is a machine learning model that can effectively classify Re
 
 # Table of Contents
 
-- [AI Image Classifier](#ai-image-classifier)
 - [Table of Contents](#table-of-contents)
 - [Brief Overview](#brief-overview)
 - [Demo](#demo)
 - [Installation](#installation)
 - [Data Sources](#data-sources)
 - [Model](#model)
-- [Testing and Evaluation](#testing-and-evaluation)
-- [Deployment](#deployment)
 
 # Brief Overview
 [(Back to top)](#table-of-contents)
@@ -76,24 +72,4 @@ The CNN model was built similar to `VGG16` and was trained on the train dataset.
 
 > The model architecture and model summary are uploaded.
 
-# Testing and Evaluation
-[(Back to top)](#table-of-contents)
 
-On evaluation, model achieved an accuracy of 93.90% 
-
-Classification Report:
-
-![image](https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/e3e898a4-e43a-43fe-9f32-4e3d3aad2329)
-
-Confusion Matrix:
-
-![image](https://github.com/SanKolisetty/AI-Image-Classifier/assets/95172001/846b99e3-7dc7-4fcb-980c-890d380eae3b)
-
-> 0 is Real and 1 is AI Generated
-
-# Deployment
-[(Back to top)](#table-of-contents)
-
-The application has been deployed in the Streamlit Cloud.
-
-You can access it here: [https://ai-image-classifier-sk.streamlit.app/](https://ai-image-classifier-sk.streamlit.app/)

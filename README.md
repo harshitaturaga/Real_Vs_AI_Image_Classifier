@@ -30,7 +30,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
-  git clone https://github.com/r.git
+  git clone https://github.com/harshitaturaga/Real_Vs_Image_Classifier.git
 ```
 Now, install the requirements using the following command.
 
